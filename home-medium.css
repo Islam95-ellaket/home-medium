@@ -1,0 +1,157 @@
+#conteiner-home{
+    display: flex;
+flex-wrap: nowrap;
+align-items: center;
+border-bottom-style: solid;
+  border-bottom-width: 2px;
+}
+
+.logo-medium{
+    margin-left: 30px;
+    width: 40px;
+}
+.icone-home{
+    margin-left: 60%;
+    display: flex;
+    cursor: pointer;
+}
+
+.svg-contenitor{
+    width: 20px;
+    display: flex;
+    padding: 10px;
+}
+.ti{
+    background-color: red;
+    display: flex;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 20px;
+    height: 25px;
+    color: white
+    
+}
+
+.super-conteiner{
+ display: flex;
+}
+
+aside{
+   width: 30%;
+}
+
+main{
+    width: 70%;
+}
+
+.logo-twitter{
+    width: 20px;
+}
+
+.conteiner-aside{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgba(64, 110, 196, 0.237);
+}
+.connect-twitter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.icona-icona{
+    display: flex;
+    flex-direction: row;
+}
+
+.input-rec{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.148);
+    width: 85px;
+}
+
+.input-reco{
+    display: flex;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    gap: 5px;
+    
+
+}
+.who-to-follow{
+    display: flex;
+   flex-direction: column;
+}
+.foto3{
+display: flex;
+border-radius: 40px;
+width: 40px;
+height: 40px;
+
+}
+
+
+.follow{
+    display: flex;
+    border-radius: 40px;
+    width: 40px;
+    cursor:pointer;
+
+}
+
+
+footer{
+    display: flex;
+    color: gray;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+
+.testa-main{
+    display: flex;
+}
+
+.recommended-for-you{
+  display: flex;
+  margin-left: 1em;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.foto-contenuto{
+  width: 300px;
+  border-radius: 25px;
+  height: 190px;
+margin-top: 40px;
+}
+
+.colonna1{
+    display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.raccoglitore-cont{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.segnalibro-video{
+    width: 15px;
+    margin-left: 90%;
+    cursor: pointer;
+    margin-top: -5%;
+}
+
+
+
+.titolo-video{
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 65%;
+  height: 190px;
+}
